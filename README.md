@@ -10,6 +10,7 @@
 
 1. [**Введение в язык программирования С++**](./CPP1_Introduction/CPP1_Introduction.md)
 2. [**Первые шаги**](./CPP2_First%20steps/CPP2_First%20steps.md)
+3. [**Типы данных**](./CPP3_Data%20Types/CPP3_Data%20Types.md)
 
 <div align="center">
 
