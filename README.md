@@ -12,6 +12,7 @@
 2. [**Первые шаги**](./CPP2_First%20steps/CPP2_First%20steps.md)
 3. [**Типы данных**](./CPP3_Data%20Types/CPP3_Data%20Types.md)
 4. [**Ветвления и циклы**](./CPP4_Branching%20and%20Cycles/CPP4_Branching%20and%20Cycles.md)
+5. [**Массивы**](./CPP5_Arrays/CPP5_Arrays.md)
 
 <div align="center">
 
