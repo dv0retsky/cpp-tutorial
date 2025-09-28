@@ -15,6 +15,7 @@
 5. [**Массивы**](./CPP5_Arrays/CPP5_Arrays.md)
 6. [**Векторы и строки**](./CPP6_Vectors%20and%20strings/CPP6_Vectors%20and%20strings.md)
 7. [**Составные типы данных**](./CPP7_Composite%20data%20types/CPP7_Composite%20data%20types.md)
+8. [**Ссылки и указатели**](./CPP8_Links%20and%20pointers/CPP8_Links%20and%20pointers.md)
 
 <div align="center">
 
