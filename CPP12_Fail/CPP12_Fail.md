@@ -168,13 +168,13 @@ useragreement45kkl
 
 **Формат ввода**
 
-```cpp
+```bash
 6^&678JKjdkdl;?.,lk879Pk1kdfl4839
 ```
 
 **Формат вывода**
 
-```cpp
+```bash
 110^&1010100110JKjdkdl;?.,lk1101101111Pk1kdfl1001011100111
 ```
 
