@@ -19,6 +19,7 @@
 9. [**Функции**](./CPP9_Functions/CPP9_Functions.md)
 10. [**Шаблоны**](./CPP10_Templates/CPP10_Templates.md)
 11. [**Последовательные контейнеры**](./CPP11_Sequential%20containers/CPP11_Sequential%20containers.md)
+12. [**Работа с файлами**](./CPP12_Fail/CPP12_Fail.md)
 
 <div align="center">
 
