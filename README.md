@@ -21,6 +21,7 @@
 11. [**Последовательные контейнеры**](./CPP11_Sequential%20containers/CPP11_Sequential%20containers.md)
 12. [**Работа с файлами**](./CPP12_Fail/CPP12_Fail.md)
 13. [**Асоциативные контейнеры**](./CPP13_Associative/CPP13_Associative.md)
+14. [**Алгоритмы**](./CPP14_Algorithms/CPP14_Algorithms.md)
 
 <div align="center">
 
