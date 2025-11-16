@@ -22,6 +22,7 @@
 12. [**Работа с файлами**](./CPP12_Fail/CPP12_Fail.md)
 13. [**Асоциативные контейнеры**](./CPP13_Associative/CPP13_Associative.md)
 14. [**Алгоритмы**](./CPP14_Algorithms/CPP14_Algorithms.md)
+15. [**Адаптеры и представления**](./CPP15_Adapters%20and%20Views/CPP15_Adapters%20and%20Views.md)
 
 <div align="center">
 
