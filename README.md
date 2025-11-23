@@ -23,6 +23,7 @@
 13. [**Асоциативные контейнеры**](./CPP13_Associative/CPP13_Associative.md)
 14. [**Алгоритмы**](./CPP14_Algorithms/CPP14_Algorithms.md)
 15. [**Адаптеры и представления**](./CPP15_Adapters%20and%20Views/CPP15_Adapters%20and%20Views.md)
+16. [**Задачки на закрепление тем**](./CPP16_Tasks/CPP16_Tasks.md)
 
 <div align="center">
 
