@@ -25,6 +25,7 @@
 15. [**Адаптеры и представления**](./CPP15_Adapters%20and%20Views/CPP15_Adapters%20and%20Views.md)
 16. [**Задачки на закрепление тем**](./CPP16_Tasks/CPP16_Tasks.md)
 16. [**Динамическое программирование**](./CPP17_Dynamic/CPP17_Dynamic.md)
+18. [**Математические константы и операции**](./CPP18_Mathematics/CPP18_Mathematics.md)
 
 <div align="center">
 
