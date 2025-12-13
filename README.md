@@ -26,6 +26,7 @@
 16. [**Задачки на закрепление тем**](./CPP16_Tasks/CPP16_Tasks.md)
 16. [**Динамическое программирование**](./CPP17_Dynamic/CPP17_Dynamic.md)
 18. [**Математические константы и операции**](./CPP18_Mathematics/CPP18_Mathematics.md)
+19. [**Односвязные и двусвязные линейные списки**](./CPP19_Lists/CPP19_Lists.md)
 
 <div align="center">
 
