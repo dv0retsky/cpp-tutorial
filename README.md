@@ -27,6 +27,7 @@
 16. [**Динамическое программирование**](./CPP17_Dynamic/CPP17_Dynamic.md)
 18. [**Математические константы и операции**](./CPP18_Mathematics/CPP18_Mathematics.md)
 19. [**Односвязные и двусвязные линейные списки**](./CPP19_Lists/CPP19_Lists.md)
+20. [**Бинарное дерево**](./CPP20_Tree/CPP20_Tree.md)
 
 <div align="center">
 
