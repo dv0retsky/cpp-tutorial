@@ -28,6 +28,7 @@
 18. [**Математические константы и операции**](./CPP18_Mathematics/CPP18_Mathematics.md)
 19. [**Односвязные и двусвязные линейные списки**](./CPP19_Lists/CPP19_Lists.md)
 20. [**Бинарное дерево**](./CPP20_Tree/CPP20_Tree.md)
+21. [**Инкапсуляция**](./CPP21_Encapsulation/CPP21_Encapsulation.md)
 
 <div align="center">
 
