@@ -30,6 +30,7 @@
 20. [**Бинарное дерево**](./CPP20_Tree/CPP20_Tree.md)
 21. [**Инкапсуляция**](./CPP21_Encapsulation/CPP21_Encapsulation.md)
 22. [**Реализация конструкторов разных типов**](./CPP22_Konstrukt/CPP22_Konstrukt.md)
+23. [**Динамическая память, создание, удаление экземпляров классов. Жизненный цикл объектов классов**](./CPP23_Class%20instances/CPP23_Class%20instances.md)
 
 <div align="center">
 
