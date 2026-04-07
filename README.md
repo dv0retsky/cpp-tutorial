@@ -31,7 +31,8 @@
 21. [**Инкапсуляция**](./CPP21_Encapsulation/CPP21_Encapsulation.md)
 22. [**Реализация конструкторов разных типов**](./CPP22_Konstrukt/CPP22_Konstrukt.md)
 23. [**Динамическая память, создание, удаление экземпляров классов. Жизненный цикл объектов классов**](./CPP23_Class%20instances/CPP23_Class%20instances.md)
-24. [**Тема №24. Статическое приведение объектов к разным типам. Динамическое определение типа**](./CPP24_Casting_Objects/CPP24_Casting_Objects.md)
+24. [**Статическое приведение объектов к разным типам. Динамическое определение типа**](./CPP24_Casting_Objects/CPP24_Casting_Objects.md)
+25. [**Обработка исключений**](./CPP25_%20Exceptions/CPP25_%20Exceptions.md)
 
 <div align="center">
 
